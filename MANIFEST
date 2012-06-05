@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/Simple/Accessor.pm
+t/01-basic.t
+t/lib/Hooks.pm
+t/lib/Initialize.pm
+t/lib/MyObject.pm
+t/release-pod-coverage.t
+t/release-pod-syntax.t
